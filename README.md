@@ -1,4 +1,4 @@
-# COMPS III: Assignment #1 - `Person` Class
+# COMPS III: Assignment #2 - `Person` Class
 
 ## Instructions
 **TASK:** In this assignment, you will dive into object oriented programming in Python by creating a `Person` class, defining its attributes and methods, and then using this class to create objects. The `Person` class you need to build has the following class diagram:
